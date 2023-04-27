@@ -17,7 +17,7 @@ Traversant un hivers froid et glacial, des explorateurs arrivent en terre inconn
 (description tirer de github 
 src:https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/fiche_exploration_Mycelium.md)
 
-## type d'istallation
+## type d'installation
 interactive
 (photo)
 
