@@ -39,17 +39,27 @@ Craig Quintero (All That Remains), Fish Wang (Red Tail), Chen Singing (The Man W
 (source https://phi.ca/fr/evenements/chaos-et-memoires/)
 
 ## type d'installation
-
+installation immersive en RV
 
 ## fonctionnement
+On y retrouve 4 salle dans un corridor où qu'on retrouve des chaises et des lunnettes virtuelles. Lors les lunnettes mise on commence la vidéo/mini film. on a l'option de pivoté sur nous même avec les chaises pour avec une vue complètes de l'environnement. En sois c'est comme un cinéma en RV.
 
 ## mise en espace
+il y a un corridor qui amène a quatre pièces différent ( chauqe pièces sont installé différemment) tous avec des lunnettes virtuelle, casque d'écoute et des chaises. certain fils des casque sont accroché au plafond
 
 ## composantes et techniques
+* lunnette virtuelle
+* casque d'écoute
+* vidéo
 
 ## mise en exposition
+* chaises
+* fils
+* cable
+* crochets
 
 ## expérience vécus
+chaque oeuvre était différente et touchaient des sujets difficile et émotionnelle. Tout au long de l'écoute des video en RV j'ai recu des vagues d'émotions. De plus les vidéos n'étaient pas trop longue donc le coté confort était correcte, pourtant quelque salle avais de plus comfortable chaise que d'autres. La pluparts des vidéo était triste et dépressive. on y retrouvais de la violance dans quelque s'une des videos.
 
 ## opinion
 
