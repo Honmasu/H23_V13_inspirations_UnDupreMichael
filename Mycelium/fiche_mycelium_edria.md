@@ -52,5 +52,5 @@ Lorsque je suis aller expériencer l'oeuvre on était que deux et donc on n'a pa
 ## opinion
 J'aurrai préférer que l'oeuvre ai été exposer durent l'été où qu'il fait plus chaud et qu'il n'y ai pas de neige.
 
-site consulté
+## site consulté
 * https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/fiche_exploration_Mycelium.md)
