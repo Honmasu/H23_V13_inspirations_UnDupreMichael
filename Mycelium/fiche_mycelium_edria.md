@@ -25,4 +25,32 @@ interactive
 lorsqu'un personne se met devant les capteurs qui se retrouve dans la photo précedente une lumière s'allume et un sons joue, en conséquence lorsqu'il y a 1 personne a chaque coin (4 coin) le climax s'active et une lumière et sons joue en harmonie.
 
 ## Mise en espace
-on retrouve l'oeuvre interactive au milieu du terrain qui est entourer de dispositif similaire qui ne sont pas le focus de l'oeuvre, il serve plus pour l'estétique.
+on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège montmorency qui est entourer de dispositif similaire qui ne sont pas le focus de l'oeuvre, il serve plus pour l'estétique.
+
+## composantes et technique
+* speaker
+* string festoon 15'
+* fausse plante
+* LED
+* boule de lumière
+* tube de lumière
+* mac mini carte de son
+* Amplificateurs
+* FL studio
+* VCV Rack
+* Madmapper
+* Arduino IDE
+
+## mise en exposition
+* impermeable pour les electroniques
+* protecteur pour les fils pour ne pas marcher dessus
+* cable
+
+## expérience vécus
+Lorsque je suis aller expériencer l'oeuvre on était que deux et donc on n'a pas pu avoir l'expérience complète de l'oeuvre (4 personne pour le climax et ce n'était pas le soir) pourtant j'ai aprécier les sons de détente qui provenais de l'oeuvre lorsqu'elle était activé, en sois elle était simple a comprendre et marchais parfaitement lorsque j'y ai assisté. S'il n'aurrai pas fait aussi froid j'aurrai surement resté plus longtemps pour me détendre un peut. En soi il on reussis a me faire sentir dans un ambiant différent de celui de l'école.
+
+## opinion
+J'aurrai préférer que l'oeuvre ai été exposer durent l'été où qu'il fait plus chaud et qu'il n'y ai pas de neige.
+
+site consulté
+* https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/fiche_exploration_Mycelium.md)
