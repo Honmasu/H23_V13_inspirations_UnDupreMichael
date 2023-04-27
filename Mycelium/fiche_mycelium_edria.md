@@ -3,7 +3,7 @@
 # Edria 2023
 
 ## Lieu de mise en exposition
-devant le collège montmorency
+devant le collège montmorency, canada, Laval
 
 ## type d'exposition
 temporaire
