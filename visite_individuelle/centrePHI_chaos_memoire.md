@@ -54,4 +54,5 @@ Craig Quintero (All That Remains), Fish Wang (Red Tail), Chen Singing (The Man W
 ## opinion
 
 ## site consulté
+* image et description de l'ouvre prise du site du centre Phi
 * https://phi.ca/fr/evenements/chaos-et-memoires/
