@@ -6,7 +6,7 @@
 devant le collège montmorency, canada, Laval
 
 ## type d'exposition
-temporaire
+temporaire, extérieur
 
 ## artistes:
 Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Lebalnc, Meryem Berciche et Jean Christophe
