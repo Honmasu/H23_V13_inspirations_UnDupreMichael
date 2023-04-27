@@ -1,12 +1,12 @@
 # Mycelium
 
-## Edria 2023
+# Edria 2023
 
-### Lieu de mise en exposition
+## Lieu de mise en exposition
 devant le collège montmorency
 
-### type d'exposition
+## type d'exposition
 temporaire
 
-### artistes:
+## artistes:
 Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Lebalnc, Meryem Berciche et Jean Christophe
