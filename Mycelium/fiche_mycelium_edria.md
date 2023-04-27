@@ -1,9 +1,9 @@
-### Mycelium
+# Mycelium
 
 ## Edria
 
-# devant le collège montmorency
+### devant le collège montmorency
 
-# exposition temporaire
+### exposition temporaire
 
-# artistes: 
+### artistes: 
