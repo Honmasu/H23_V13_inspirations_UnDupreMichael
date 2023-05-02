@@ -19,7 +19,7 @@ src:https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Myc
 
 ## type d'installation
 interactive
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/coter.jpg)
+![phote]()
 
 ## fonctionnement
 lorsqu'un personne se met devant les capteurs qui se retrouve dans la photo précedente une lumière s'allume et un sons joue, en conséquence lorsqu'il y a 1 personne a chaque coin (4 coin) le climax s'active et une lumière et sons joue en harmonie.
