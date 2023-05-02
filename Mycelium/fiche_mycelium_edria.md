@@ -48,11 +48,17 @@ on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège mon
 * Madmapper
 * Arduino IDE
 
+![phote]()
+
+(photo prise par Samuel Desmeules-Voyer)
 ## mise en exposition
 * impermeable pour les electroniques
 * protecteur pour les fils pour ne pas marcher dessus
 * cable
 
+![phote]()
+
+(photo prise par Samuel Desmeules-Voyer)
 ## expérience vécus
 Lorsque je suis aller expériencer l'oeuvre on était que deux et donc on n'a pas pu avoir l'expérience complète de l'oeuvre (4 personne pour le climax et ce n'était pas le soir) pourtant j'ai aprécier les sons de détente qui provenais de l'oeuvre lorsqu'elle était activé, en sois elle était simple a comprendre et marchais parfaitement lorsque j'y ai assisté. S'il n'aurrai pas fait aussi froid j'aurrai surement resté plus longtemps pour me détendre un peut. En soi il on reussis a me faire sentir dans un ambiant différent de celui de l'école.
 
