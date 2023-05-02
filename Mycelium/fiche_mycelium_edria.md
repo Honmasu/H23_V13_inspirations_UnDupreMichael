@@ -27,7 +27,7 @@ lorsqu'un personne se met devant les capteurs qui se retrouve dans la photo pré
 ## mise en espace
 on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège montmorency qui est entourer de dispositif similaire qui ne sont pas le focus de l'oeuvre, il serve plus pour l'estétique.
 
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/poteau_cote_petit.jpg)
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/coter.jpg)
 
 ## composantes et technique
 * speaker
