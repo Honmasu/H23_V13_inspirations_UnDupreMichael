@@ -56,7 +56,7 @@ on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège mon
 * protecteur pour les fils pour ne pas marcher dessus
 * cable
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/fils.jpg)
 
 (photo prise par Samuel Desmeules-Voyer)
 ## expérience vécus
