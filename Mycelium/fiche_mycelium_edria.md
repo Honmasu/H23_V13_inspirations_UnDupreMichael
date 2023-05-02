@@ -48,7 +48,7 @@ on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège mon
 * Madmapper
 * Arduino IDE
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/interieur.jpg)
 
 (photo prise par Samuel Desmeules-Voyer)
 ## mise en exposition
