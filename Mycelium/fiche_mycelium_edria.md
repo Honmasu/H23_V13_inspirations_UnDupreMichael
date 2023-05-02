@@ -21,6 +21,7 @@ src:https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Myc
 interactive
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/poteau_milieu_petit.jpg)
+(photo prise par Samuel Desmeules-Voyer)
 
 ## fonctionnement
 lorsqu'un personne se met devant les capteurs qui se retrouve dans la photo précedente une lumière s'allume et un sons joue, en conséquence lorsqu'il y a 1 personne a chaque coin (4 coin) le climax s'active et une lumière et sons joue en harmonie.
@@ -29,6 +30,7 @@ lorsqu'un personne se met devant les capteurs qui se retrouve dans la photo pré
 on retrouve l'oeuvre interactive au milieu du terrain extérieur du collège montmorency qui est entourer de dispositif similaire qui ne sont pas le focus de l'oeuvre, il serve plus pour l'estétique.
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/Mycelium/image_edria.mb/coter.jpg)
+(photo prise par Samuel Desmeules-Voyer)
 
 ## composantes et technique
 * speaker
