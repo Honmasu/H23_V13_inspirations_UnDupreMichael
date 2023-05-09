@@ -76,6 +76,7 @@ il y a un corridor qui amène a quatre pièces différent ( chauqe pièces sont 
 chaque oeuvre était différente et touchaient des sujets difficile et émotionnelle. Tout au long de l'écoute des video en RV j'ai recu des vagues d'émotions. De plus les vidéos n'étaient pas trop longue donc le coté confort était correcte, pourtant quelque salle avais de plus comfortable chaise que d'autres. La pluparts des vidéo était triste et dépressive. on y retrouvais de la violance dans quelque s'une des videos.
 
 ## opinion
+pas d'opinion, j'ai trouvé les oeuvres bien exécuté.
 
 ## site consulté
 * image et description de l'ouvre prise du site du centre Phi
